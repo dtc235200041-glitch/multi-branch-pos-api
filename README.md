@@ -1,1 +1,1 @@
-# multi-branch-pos-api
+# Multi Branch POS API
